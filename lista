@@ -1,0 +1,73 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oaxSwdU.png" group-title="PERU", TV Peru | HD
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oaxSwdU.png" group-title="PERU", TV Peru (Alt) | SD
+http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3663601877/9f46b5977e2c9d2e370e46d686a95ef7_400x400.jpeg" group-title="PERU",Canal BHtv
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JuJyG1P.png" group-title="PERU", Antares TV | SD
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eqpww5i.png" group-title="PERU", Turbo Mix Radio TV | SD
+http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oWya6SB.png" group-title="PERU", Central TV | SD
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/500px-Sol_tv_pe.png" group-title="PERU",Sol TV
+http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zowFrNEOpTo/WI4N-4cC1HI/AAAAAAAAEd4/GFCFneNSFgQ4zF77gcE0myrnqlj78PbtACLcB/s1600/CTC%2BHD.png" group-title="PERU",CTC TV Cusco
+http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z7cueNf.png" group-title="PERU", Top Latino | SD
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wpzgjWt.png" group-title="MUSICA", Radio Sanborja (Peru) | SD
+https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.ssb.com.pe/images/monterrico%20tv.jpg" group-title="PERU",Monterrico TV
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xwbpj7i.jpg" group-title="PERU", Ovacion | SD
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Sonus FM TV HD" tvg-logo="" group-title="CINEMA Y SERIES ",EUROCHANNEL
+http://www.sonus.fm:1935/public/stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sonus FM TV SD" tvg-logo="" group-title="CINEMA Y SERIES ",EUROCHANNEL
+http://www.sonus.fm:1935/public/stream_240p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rock TV (ROM)" tvg-logo="" group-title="CINEMA Y SERIES ",EUROCHANNEL
+http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="UMGTV" tvg-logo="" group-title="CINEMA Y SERIES ",EUROCHANNEL
+http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSICTOP" tvg-logo="" group-title="CINEMA Y SERIES ",STUDIO UNIVERSAL
+http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal 11" tvg-logo="https://ugc.kn3.net/i/760x/http://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/200px-TNT_TV_logo.svg.png" group-title="CINEMA Y SERIES ",TNT ESP
+http://live.canaloncelive.tv:1935/livepkgr2/internacional.smil/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="nextTV" tvg-logo="" group-title="CINEMA Y SERIES ",FXX
+http://198.1.117.5:1935/live/livestream/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal 10" tvg-logo="" group-title="CINEMA Y SERIES ",AXN
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal 26" tvg-logo="" group-title="CINEMA Y SERIES ",AMC ESP
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="A&E ESP" tvg-name="canal 11" tvg-logo="" group-title="CINEMA Y SERIES ",A&E ESP
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="UESTV" tvg-logo="https://cdn.mitvstatic.com/channels/a6911fcf-0430-4e30-9302-d6e022438559_m.jpg" group-title="CINEMA Y SERIES ",CANAL FOX
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="EXTREMATV" tvg-logo="" group-title="CINEMA Y SERIES ",FXX
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WOWTV" tvg-logo="" group-title="CINEMA Y SERIES ",AXN
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8? 
+#EXTINF:-1 tvg-id="" tvg-name="BOING" tvg-logo="" group-title="CINEMA Y SERIES ",AMC ESP
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LATINOSUP" tvg-logo="" group-title="CINEMA Y SERIES ",FXX
+https://5b38ce71f1f00.streamlock.net/8080/8080/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TMTV" tvg-logo="" group-title="CINEMA Y SERIES ",AXN
+http://streamingcws20.com:1935/tmtv/videotmtv/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSICTOP" tvg-logo="" group-title="CINEMA Y SERIES ",AMC ESP
+http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
