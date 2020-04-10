@@ -44,11 +44,9 @@ http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xwbpj7i.jpg" group-title="PERU", Ovacion | SD
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xwbpj7i.jpg" group-title="PERU", Tv Cosmos | SD 
+#EXTINF:-1 tvg-logo="https://arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/XYTVJTK3QNDE3MJKGVVCS6IGVI.jpg" group-title="PERU", Tv Cosmos | SD 
 http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
 
-#EXTINF:-1 ,#EXTINF:-1   Tv Cosmos
-http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
 
 #EXTINF:-1 ,REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
